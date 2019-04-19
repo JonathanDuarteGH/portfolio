@@ -2,7 +2,7 @@
 
 Personal portfolio built using JavaScript, CSS and HTML.
 
-[JT-Systems](k)
+[JT-Systems](https://www.jaytsystems.com/)
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ index.html
 
 ## Contributors
 
-* **Jonathan Duarte** - *Initial work* - [JT-Systems](k)
+* **Jonathan Duarte** - *Initial work* - [JT-Systems](https://www.jaytsystems.com/)
 
 
 ## License
