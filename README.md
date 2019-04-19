@@ -2,7 +2,7 @@
 
 Personal portfolio built using JavaScript, CSS and HTML.
 
-[JT-Systems](http://abwtechnologies.com/)
+[JT-Systems](k)
 
 ## Getting Started
 
@@ -32,7 +32,7 @@ index.html
 
 ## Contributors
 
-* **Jonathan Duarte** - *Initial work* - [JT-Systems](http://www.abwtechnologies.com/)
+* **Jonathan Duarte** - *Initial work* - [JT-Systems](k)
 
 
 ## License
