@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/elgnis3901
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jaytsystems.com
+  * I am elgnis3901 (https://keybase.io/elgnis3901) on keybase.
+  * I have a public key ASBoR9CCErsM_o-mcG7ryhhm3ChivnvsSAzkLbbHtisF5Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206847d08212bb0cfe8fa6706eebca1866dc2862be7bec480ce42db6c7b62b05e50a",
+      "host": "keybase.io",
+      "kid": "01206847d08212bb0cfe8fa6706eebca1866dc2862be7bec480ce42db6c7b62b05e50a",
+      "uid": "e8e49bdd28314ca451abfc52482f7f19",
+      "username": "elgnis3901"
+    },
+    "merkle_root": {
+      "ctime": 1558233979,
+      "hash": "d13cbdbecfbecb31594aca7bc3bdd67b7e4d908e995b67a3f7f4ddaabb3739ae96f24b55d6397239340daf2507aad783a39802c5d6f44324cc30937525ccc283",
+      "hash_meta": "d4b3cd6ec6442b173e03e7905232efc239fc0c83481a326f20df7dc2814991b9",
+      "seqno": 5402017
+    },
+    "service": {
+      "entropy": "3ljxCWEqEtQ7KpNtmrVrgZSI",
+      "hostname": "www.jaytsystems.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1558234003,
+  "expire_in": 504576000,
+  "prev": "6e6693f2ec024391711a01475279f7dcc91ad87f5b71674dc6c3683354787618",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaEfQghK7DP6PpnBu68oYZtwoYr577EgM5C22x7YrBeUKp3BheWxvYWTESpcCEsQgbmaT8uwCQ5FxGgFHUnn33Mka2H9bcWdNxsNoM1R4dhjEIOv3iTs/uqH1l9plYdOUv7ePdge614auRZ1BfezLOn3lAgHCo3NpZ8RAKVCVMwb60fd4eYFqza/1kiiCX4e5aFtukA3rkGtxxFfSkE2wOp+qqjihxCbJv8ko6wQr0kXTCXX1QenZG7/oB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMGiPrK9VabQUH5vY908DVABmtwQTMrk979u3/jJH/w8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/elgnis3901
+
+==================================================================
